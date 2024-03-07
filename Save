@@ -1,0 +1,11 @@
+/*
+printf("Hello World! \n");
+	int num;
+	printf("Digite um numero a ser impresso: \n");
+	scanf("%d", &num);
+	printf("O numero digitado foi: %d.\n", num);
+System.out.println("Digitar sua frase aqui, " +nomedasuavariavel "continue sua merda de frase.");
+print(f"Ola {nome}! Como esta sendo seu dia?")
+<p> Ola Diogo! Como esta sendo seu dia? </p>
+cout << "Ola Richart! Como esta sendo seu dia? " << endl;
+*/
