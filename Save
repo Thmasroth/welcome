@@ -9,3 +9,22 @@ print(f"Ola {nome}! Como esta sendo seu dia?")
 <p> Ola Diogo! Como esta sendo seu dia? </p>
 cout << "Ola Richart! Como esta sendo seu dia? " << endl;
 */
+/*
+#include <stdio.h> /// padrao de entrada/saida
+#include <stdlib.h> /// armazenamento e remocao de variavel na memoria
+
+int main() {
+	int num1, num2, soma, resultado;
+	printf("Digite um numero a ser impresso: \n");
+	scanf("%d", &num1);
+	printf("Digite outro numero a ser impresso: \n");
+	scanf("%d", &num2);
+	soma = num1 + num2;
+	resultado = soma / 2;
+	printf("O primeiro numero digitado foi: %d.\n", num1);
+	printf("O segundo numero digitado foi: %d.\n", num2);
+	printf("Resultado da soma dos numeros: %d.\n", soma);
+	printf("Resultado da divisao dos numeros por 2: %d.\n", resultado);	
+	return 0;
+}
+*/
